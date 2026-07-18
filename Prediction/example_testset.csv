@@ -1,0 +1,5 @@
+PDB_file,Chain,WT,Position,Mutation
+1a5e.pdb,A,W,15,D
+1aj3.pdb,A,D,68,G
+1aj3.pdb,A,K,96,A
+1amq.pdb,A,C,192,S
